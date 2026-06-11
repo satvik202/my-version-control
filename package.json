@@ -1,0 +1,12 @@
+{
+  "name": "myvcs",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "myvcs": "./bin/myvcs.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.0.0"
+  }
+}
